@@ -8,28 +8,6 @@ https://raw.githubusercontent.com/edumserrano/pt-iptv/main/M3U/TVI.m3u8
 #EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/TVI-Internacional.png",TVI Internacional
 https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI_Internacional.m3u8
 
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/SIC-Noticias.png",SIC Notícias
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
-#EXTVLCOPT:http-origin=https://sicnoticias.pt
-#EXTVLCOPT:http-referrer=https://sicnoticias.pt/
-https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/CNN-Portugal.png",CNN Portugal
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
-#EXTVLCOPT:http-origin=https://tviplayer.iol.pt
-#EXTVLCOPT:http-referrer=https://tviplayer.iol.pt
-https://raw.githubusercontent.com/edumserrano/pt-iptv/main/M3U/CNN_Portugal.m3u8
-
-#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/euronews-logo-225x225.png",Euronews PT
-https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/ARTV.png",ARTV
-https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/TVI-Internacional.png",TVI Internacional
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
-https://raw.githubusercontent.com/edumserrano/pt-iptv/main/M3U/TVI_Internacional.m3u8
-
 #EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/TVI-Africa.png",TVI África
 #https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
@@ -51,6 +29,12 @@ https://raw.githubusercontent.com/edumserrano/pt-iptv/main/M3U/TVI_Ficcao.m3u8
 #EXTVLCOPT:http-referrer=https://tviplayer.iol.pt
 https://raw.githubusercontent.com/edumserrano/pt-iptv/main/M3U/TVI_Reality.m3u8
 
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/SIC-Noticias.png",SIC Notícias
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
+#EXTVLCOPT:http-origin=https://sicnoticias.pt
+#EXTVLCOPT:http-referrer=https://sicnoticias.pt/
+https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:-1 tvg-id="SICReplay.pt" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/SIC-Replay.png",SIC Replay
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
 #EXTVLCOPT:http-origin=https://sic.pt
@@ -63,37 +47,27 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/CNN-Portugal.png",CNN Portugal
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
+#EXTVLCOPT:http-origin=https://tviplayer.iol.pt
+#EXTVLCOPT:http-referrer=https://tviplayer.iol.pt
+https://raw.githubusercontent.com/edumserrano/pt-iptv/main/M3U/CNN_Portugal.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/euronews-logo-225x225.png",Euronews PT
+https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/ARTV.png",ARTV
+https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/TVI-Internacional.png",TVI Internacional
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
+https://raw.githubusercontent.com/edumserrano/pt-iptv/main/M3U/TVI_Internacional.m3u8
+
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/Porto-Canal.png",Porto Canal
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim.png",Assim é Portugal
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/BBC-World-News.png",BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF:-1 tvg-id="SkyNewsInternational.uk" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/Sky-News.png",Sky News
-https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream06/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/CNN.png",CNN
-https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News
-#https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/LiveNOW_from_Fox.webp",LiveNOW from Fox
-#https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
-
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/ABC-News.png",ABC News Live
-#https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/CBSN.png",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/NBC-News-Now.png",NBC News Now
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=52e6281b1d3c364c872497e8058977b1:11d6e9a2abb2e241804148713531f64d
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(nnn)/master.m3u8
 
 #EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/canal-kuriakos-tv-logo-256x256.png",Kuriakos TV
 https://w1.manasat.com/ktv/ktv.smil/playlist.m3u8
@@ -129,3 +103,34 @@ https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Madeira | Jardim do Mar
 https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/BBC-World-News.png",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsInternational.uk" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/Sky-News.png",Sky News
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream06/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/CNN.png",CNN
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News
+#https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/LiveNOW_from_Fox.webp",LiveNOW from Fox
+#https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/ABC-News.png",ABC News Live
+#https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/CBSN.png",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://raw.githubusercontent.com/edumserrano/pt-iptv/main/logos/NBC-News-Now.png",NBC News Now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=52e6281b1d3c364c872497e8058977b1:11d6e9a2abb2e241804148713531f64d
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(nnn)/master.m3u8
