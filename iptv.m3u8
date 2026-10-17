@@ -173,7 +173,7 @@ https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady
 
 
-#EXTINF:-1 tvg-name="TN Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/TN_Live_2025.png/revision/latest/scale-to-width-down/300?cb=20251016023605" tvg-id="" tvg-country="CZ" group-title="Czech Republic" tvg-chno="33",TN Live
+#EXTINF:-1 tvg-name="TN Live" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Televizn%C3%AD_noviny_logo_2025.svg/1280px-Televizn%C3%AD_noviny_logo_2025.svg.png?utm_source=cs.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-id="" tvg-country="CZ" group-title="Czech Republic" tvg-chno="33",TN Live
 https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live
 
 
@@ -265,6 +265,10 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 https://1977134029.rsc.cdn77.org/1977134029/index.m3u8
 
 
+#EXTINF:-1 tvg-name="TV Brno 1" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/3/32/Logo-tv-brno-1-od-zari-2026.png?utm_source=cs.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="TVBRNO1.cz" tvg-country="CZ" group-title="Czech Republic" tvg-chno="55",Tv Brno 1
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="Východoceská TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png" tvg-id="V1.cz" tvg-country="CZ" group-title="Czech Republic" tvg-chno="56",Východoceská TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 
@@ -293,7 +297,7 @@ https://sktv.mxnticek.eu/new/stream.php?ch=Krimi
 https://sktv.mxnticek.eu/new/stream.php?ch=Klasik
 
 
-#EXTINF:-1 tvg-name="Markíza TN Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" tvg-id="" tvg-country="SK" group-title="Slovakia" tvg-chno="63",Markíza TN Live
+#EXTINF:-1 tvg-name="Markíza TN Live" tvg-logo="https://cmesk-ott-images-tvnoviny.ssl.cdn.cra.cz/1612ed54-2b03-4982-a141-884afa873a80" tvg-id="" tvg-country="SK" group-title="Slovakia" tvg-chno="63",Markíza TN Live
 https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live
 
 
@@ -422,3 +426,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #KODIPROP:inputstream.adaptive.license_key=52e6281b1d3c364c872497e8058977b1:11d6e9a2abb2e241804148713531f64d
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(nnn)/master.m3u8
 
+#EXTINF:-1 tvg-id="RecordNEWS.br" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/3840px-Record_News_logo_2022.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="International | News" tvg-chno="95",Record NEWS
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1 tvg-name="Now 80s" tvg-logo="https://i.imgur.com/8paz37m.png" group-title="UK" tvg-chno="96",Now 80s
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
